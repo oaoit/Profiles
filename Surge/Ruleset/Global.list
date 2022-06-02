@@ -102,7 +102,7 @@ DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,bibox.com
 DOMAIN-SUFFIX,biggo.com.tw
-DOMAIN-SUFFIX,binance.com
+# DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,coingecko.com
