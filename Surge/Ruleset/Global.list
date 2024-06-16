@@ -581,3 +581,9 @@ DOMAIN-SUFFIX,yimg.com
 DOMAIN,api.steampowered.com
 DOMAIN,store.steampowered.com
 DOMAIN-SUFFIX,deepl.com
+# > ChatGPT
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,oaistatic.com
