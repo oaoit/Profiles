@@ -102,10 +102,6 @@ DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,bibox.com
 DOMAIN-SUFFIX,biggo.com.tw
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,binance.cloud
-DOMAIN-SUFFIX,binance.info
-DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,kucoin.work
 DOMAIN-SUFFIX,kucoin.plus
@@ -588,3 +584,9 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,oaistatic.com
+# > Binance
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,binancecnt.com
