@@ -594,3 +594,6 @@ DOMAIN-SUFFIX,binancecnt.com
 
 # > Hong Kong
 DOMAIN-SUFFIX,patagonia.com.hk
+
+# > VPN
+DOMAIN-SUFFIX,renzhe.cloud
