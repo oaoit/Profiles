@@ -48,6 +48,7 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-KEYWORD,twitter
+DOMAIN-SUFFIX,x.com
 # > Telegram
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
