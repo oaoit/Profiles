@@ -591,15 +591,15 @@ DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,binancecnt.com
-
 # > Hong Kong
 DOMAIN-SUFFIX,patagonia.com.hk
-
 # > VPN
 DOMAIN-SUFFIX,renzhe.cloud
-
 # > AV
 DOMAIN-SUFFIX,missav.ws
+# > Token Pocket
+DOMAIN-SUFFIX,tpwallet.io
+
 
 
 DOMAIN-SUFFIX,hctd1.com
