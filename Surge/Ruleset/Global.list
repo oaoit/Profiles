@@ -591,6 +591,7 @@ DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,mokexapp.info
 # > Hong Kong
 DOMAIN-SUFFIX,patagonia.com.hk
 # > VPN
@@ -601,7 +602,12 @@ DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,tokenpocket.pro
 DOMAIN-SUFFIX,tpwallet.io
 DOMAIN-SUFFIX,tp.xyz
-
+# > pump.fun
+DOMAIN-SUFFIX,pump.fun
+# > SoSoValue
+DOMAIN-SUFFIX,sosovalue.com
+# > 非小号
+DOMAIN-SUFFIX,feixiaohao.com
 
 
 DOMAIN-SUFFIX,hctd1.com
