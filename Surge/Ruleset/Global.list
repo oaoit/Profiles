@@ -608,6 +608,13 @@ DOMAIN-SUFFIX,pump.fun
 DOMAIN-SUFFIX,sosovalue.com
 # > 非小号
 DOMAIN-SUFFIX,feixiaohao.com
+# > PolyMarket
+DOMAIN-SUFFIX,polymarket.com
+# > Coinbase
+DOMAIN-SUFFIX,coinbase.com
+# > DefiLlama
+DOMAIN-SUFFIX,defillama.com
+DOMAIN-SUFFIX,llamao.fi
 
 
 DOMAIN-SUFFIX,hctd1.com
