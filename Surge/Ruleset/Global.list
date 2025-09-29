@@ -616,7 +616,8 @@ DOMAIN-SUFFIX,coinbase.com
 # > DefiLlama
 DOMAIN-SUFFIX,defillama.com
 DOMAIN-SUFFIX,llamao.fi
-
+# > Z-Library
+DOMAIN-SUFFIX,z-library.sk
 
 DOMAIN-SUFFIX,hctd1.com
 DOMAIN-SUFFIX,yuglf.com
